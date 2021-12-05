@@ -9,7 +9,6 @@ namespace TrailBoids
         [SerializeField] private Transform boidsParentTransform;
 
         [Space]
-        [SerializeField] int _spawnCount = 10;
         [SerializeField] float _spawnRadius = 4;
 
         [SerializeField] float _velocity = 6;
